@@ -1,0 +1,16 @@
+/* Body */
+/* H2 */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header ul {
+  display: flex;
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
